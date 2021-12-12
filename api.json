@@ -2,4 +2,16 @@
   "version": "1.0",
   "discord": "dsc.gg/Reloaded",
   "creator": "ig onagamileaks#9204",
+  
+  "RPCKey": "919517635606110229",
+  "LargeImageKey":"phoenix",
+  "LargeImageText":"Phoenix Swapper v1",
+  "SmallImageKey":"pfp",
+  "SmallImageText":"Made by ig onagamileaks#9204",
+  "Details":"Join: dsc.gg/reloaded",
+  
+  "Discordinvite": "https://dsc.gg/Reloaded",
+  "Warningmessage": "false",
+  "SwapperDowntime": "false",
+  "SwapperDowntimeMessage": "Swapper Is Currently Down Please Vist Our Discord For More Info!"
 }
