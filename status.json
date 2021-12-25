@@ -1,0 +1,17 @@
+{
+   "Version": "1.0",
+   "Discord": "https://discord.gg",
+
+   "Status": "working",
+   "Downtime": "false",
+   "Warning": "false",
+   
+   "DowntimeInfo": {
+      "DowntimeReason": "",
+      "DowntimeDuration": ""
+   },
+   "DowntimeMessage": {
+      "DowntimeTitle": "",
+      "DowntimeMessage": ""
+   }
+}
